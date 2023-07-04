@@ -2,4 +2,5 @@
 title: Cleaning Windows
 ---
 
-Experimenting with hosting a blog on Github. I have Uncorrected.net hosted on wordpress, which I like a good bit, but I'm trying this out because I've been  using Windows more lifelong Mac user who's experimenting) and I don't love the tools available to post from Windows to Wordpress.
+I'm playing in the sandbox, checking out Github as a host for a blog. I have Uncorrected, which is hosted via Wordpress. I like this setup a lot on my Mac, but the best way to post from Windows to Wordpress is, oddly, Microsoft Word. I want something a little more grungy. Lifelong Mac user shaking his tree for fun.
+
